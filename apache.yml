@@ -17,6 +17,6 @@
         src: index.html
         dest: /usr/share/nginx/html
         owner: nginx
-         group: nginx
+        group: nginx
          mode: 0644
 ...

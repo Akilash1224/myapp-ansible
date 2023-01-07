@@ -1,6 +1,7 @@
 ---
 - hosts: webservers 
   become: True
+  become_user: revo
   tasks:
     - name: Install packages
       yum:

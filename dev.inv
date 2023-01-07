@@ -1,2 +1,2 @@
 [webservers]
-10.10.12.23 ansible_user=ec2-user 
+10.10.12.23 ansible_user=revo

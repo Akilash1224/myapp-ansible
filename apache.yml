@@ -18,5 +18,5 @@
         dest: /usr/share/nginx/html
         owner: nginx
         group: nginx
-        mode: 0644
+        mode: 777
 ...

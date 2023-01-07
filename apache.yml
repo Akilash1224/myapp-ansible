@@ -15,8 +15,8 @@
     - name: Deploy static website
       copy:
         src: index.html
-        dest: /usr/share/nginx/html
-        owner: nginx
-        group: nginx
-        mode: 777
+        dest: /home/revo
+        
+    
+    
 ...
